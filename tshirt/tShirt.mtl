@@ -1,0 +1,24 @@
+# Blender MTL File: 'garment01_tShirt_riggingUse_UVmapEdit.blend'
+# Material Count: 2
+
+newmtl UVmap_fron
+Ns 2.250001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\UTeM_Files\\semester07_Intern\\WORKS\\materials\\texture_demo\\tShirt04_front.jpg
+
+newmtl UVmap_rear
+Ns 2.250001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\UTeM_Files\\semester07_Intern\\WORKS\\materials\\texture_demo\\tShirt03_rear.jpg
